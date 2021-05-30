@@ -18,15 +18,15 @@ highlighter : rouge
 navbar:
   - slug : /
     title: home
-  - slug : /blog/about
+  - slug : /blog/about/
     title: about
-  - slug: /talks
+  - slug: /talks/
     title: talks
-  - slug: /writing
+  - slug: /writing/
     title: writing
-  - slug: /blog
+  - slug: /blog/
     title: blog
-  - slug: /now
+  - slug: /blog/now/
     title: now
-  - slug: /blog/archive
+  - slug: /blog/archive/
     title: archive
